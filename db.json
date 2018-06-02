@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "name": "Mark",
+      "age": 32
+    },
+    {
+      "id": 1,
+      "name": "James",
+      "age": 29
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
