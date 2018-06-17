@@ -21,15 +21,15 @@
   "sources": [
     {
       "id": 1,
-      "language": ru
+      "language": "ru"
     },
     {
       "id": 2,
-      "language": nl
+      "language": "nl"
     },
     {
       "id": 3,
-      "language": ro
+      "language": "ro"
     }
   ]
 }
