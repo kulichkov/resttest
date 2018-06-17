@@ -15,5 +15,19 @@
       "name": "James",
       "age": 29
     }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "language": ru
+    },
+    {
+      "id": 2,
+      "language": nl
+    },
+    {
+      "id": 3,
+      "language": ro
+    }
   ]
 }
