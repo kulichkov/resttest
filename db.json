@@ -1,16 +1,16 @@
 {
   "sources": [
     {
-      "id": "1",
-      "language": "ru"
+      "id": "a",
+      "language": ru
     },
     {
-      "id": "2",
-      "language": "nl"
+      "id": "b",
+      "language": nl
     },
     {
-      "id": "3",
-      "language": "ro"
+      "id": "c",
+      "language": zh
     }
   ]
 }
